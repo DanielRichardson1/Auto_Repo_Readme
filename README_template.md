@@ -80,9 +80,9 @@ description of problem we're facing
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk.git
+   git clone https://github.com/user/repo.git
    
-   cd Auto_Jobs_Applier_AIHawk
+   cd repo
    ```
 
 3. **Activate virtual environment:**
